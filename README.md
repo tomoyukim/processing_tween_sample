@@ -1,4 +1,6 @@
 processing_tween_sample
 =======================
 
-tween sample for processing
+This is tween sample for processing with universal tween engine.
+
+https://code.google.com/p/java-universal-tween-engine/
